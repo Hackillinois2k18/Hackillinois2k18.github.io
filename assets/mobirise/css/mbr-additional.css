@@ -1,26 +1,30 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-
-#header1-4 P {
+#header1-a P {
   text-align: left;
+}
+#header1-a H1 {
   color: #27aae0;
 }
-#header1-4 H1 {
-  color: #e25041;
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
-}
-#header1-4 SPAN {
+#header1-a SPAN {
   color: #ffffff;
 }
-#ext_menu-3 .mbr-brand__name {
+#msg-box4-f .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-article {
+  color: #ffffff;
+}
+#ext_menu-c .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-3 .mbr-navbar__section {
+#ext_menu-c .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-3 .mbr-navbar__hamburger {
+#ext_menu-c .mbr-navbar__hamburger {
   color: #ffffff;
 }
