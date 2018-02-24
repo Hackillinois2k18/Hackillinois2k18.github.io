@@ -126,6 +126,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
             }
           },
           "headerAlign": "left",
