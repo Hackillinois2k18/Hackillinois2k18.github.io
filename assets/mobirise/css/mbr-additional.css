@@ -1,11 +1,14 @@
-#header4-0 H1 {
-  color: #2c82c9;
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#header1-4 P {
+  text-align: left;
 }
-#header4-0 SPAN {
-  color: #cccccc;
+#header1-4 H1 {
+  color: #e25041;
+  font-family: 'Roboto', sans-serif;
 }
-#header4-0 P {
-  color: #3d8eb9;
+#header1-4 SPAN {
+  color: #ffffff;
 }
 #ext_menu-3 .mbr-brand__name {
   font-size: 16px;
