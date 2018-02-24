@@ -2,10 +2,12 @@
 
 #header1-4 P {
   text-align: left;
+  color: #27aae0;
 }
 #header1-4 H1 {
   color: #e25041;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
 }
 #header1-4 SPAN {
   color: #ffffff;

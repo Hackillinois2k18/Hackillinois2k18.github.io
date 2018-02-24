@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.6.5"
   },
   "pages": {
@@ -33,7 +33,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1041x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -46,8 +46,8 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">BAR</span>&nbsp;BEAUX",
-          "text": "Your taste, your drink.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://test.com\" data-toolbar=\"-mbrBtnMove\">LOGIN WITH MICROSOFT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://test.com\" data-toolbar=\"-mbrBtnMove\">LOGIN</a> ",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://test.com\" data-toolbar=\"-mbrBtnMove\">LOGIN WITH MICROSOFT</a> ",
           "_tags": [
             "Theme"
           ],
@@ -55,12 +55,14 @@
           "_anchor": "header1-4",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#27aae0"
             },
             "H1": {
               "color": "#e25041",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
             },
             "SPAN": {
               "color": "#ffffff"
