@@ -19,15 +19,6 @@
 #msg-box4-f .mbr-article P {
   color: #ffffff;
 }
-#ext_menu-c .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__hamburger {
-  color: #ffffff;
+#contacts1-l P {
+  text-align: right;
 }
